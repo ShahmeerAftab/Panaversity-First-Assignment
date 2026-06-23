@@ -1,6 +1,6 @@
 # 🚀 Panaversity Assignment Projects
 
-This repository contains three projects completed as part of a Panaverse assignment. The projects focus on AI prompting, JavaScript game development, and AI-powered slide generation.
+This repository contains three projects completed as part of a Panaversity assignment. The projects focus on AI prompting, JavaScript game development, and AI-powered slide generation.
 
 ## 📂 Projects
 
