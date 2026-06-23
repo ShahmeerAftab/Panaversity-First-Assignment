@@ -1,0 +1,15 @@
+/* Tailwind layers */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom utility — subtle cell grid lines on the board */
+@layer utilities {
+  .board-bg {
+    background-color: #1e293b;
+    background-image:
+      linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+    background-size: 5% 5%; /* one line per cell (100% / 20) */
+  }
+}
